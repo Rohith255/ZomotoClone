@@ -643,6 +643,7 @@
     .footer-logo img {
             width: 150px;
             height: 50px;
+            margin-left: 20px;
         }
     .footer-logo-button {
             width: 80%;
@@ -665,8 +666,8 @@
             justify-content: space-evenly;
             margin-top: 20px;
         }
-    .footer-content-01 {
-            width: 48%;
+        .footer-content-01 {
+            width: 40%;
         }
         .footer-content-02 {
             width: 100%;
