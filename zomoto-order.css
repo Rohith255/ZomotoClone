@@ -526,8 +526,12 @@
         width: 100%;
         justify-content: space-between;
     }
+    .header-nav-logo img{
+        margin-left: 10px;
+    }
     .header-nav-logo svg{
         display: block;
+        margin-right: 20px;
     }
     .header-search{
         width: 98%;
